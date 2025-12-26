@@ -1,4 +1,11 @@
+*.tmp
+*.bat
+.env
+testCode.js
+
 .vscode/
 demo/
-*.tmp
 document/images/
+node_modules/
+backups/
+certs/
